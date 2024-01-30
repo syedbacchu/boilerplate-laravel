@@ -9,18 +9,18 @@
 Laravel Boilerplate with custom authentication. A complete auth system for both api and web like register, login, verify email, forgot password, reset password etc.
 
 ## Technologies
--> Laravel-10 , A PHP Framework
--> Mysql Database
--> Eloquent ORM
--> Quiry Builder
--> Tailwind Css
--> Rest Api
+- Laravel-10 , A PHP Framework
+- Mysql Database
+- Eloquent ORM
+- Quiry Builder
+- Tailwind Css
+- Rest Api
 
 ## Requirements
--> node js
--> Composer
--> PHP 8.1^
--> mysql 8
+- node js
+- Composer
+- PHP 8.1^
+- mysql 8
 
 
 
